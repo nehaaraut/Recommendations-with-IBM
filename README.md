@@ -8,15 +8,6 @@ In order to determine which articles to show to each user, we will be performing
 ## Motivation
 For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
 
-## Libraries used 
-python 3.7 and above
-pandas
-numpy
-matplotlib
-pickle
-re
-nltk
-sklearn
 
 ## Overview
 ## I. Exploratory Data Analysis
